@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**uditsharma30/uditsharma30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 💼 Software Development Engineer at Amazon Inc.
 - 📍 Based in the Bay Area, California | 🏡 From Delhi, India
 - ⚡️ Passionate about developing innovative, customer-centric products.
